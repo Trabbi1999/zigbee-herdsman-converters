@@ -1,5 +1,28 @@
 # Changelog
 
+## [25.106.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.105.0...v25.106.0) (2026-01-12)
+
+
+### Features
+
+* **add:** _TZE204_w2vunxzm https://github.com/Koenkk/zigbee2mqtt/issues/30596 ([df6ec31](https://github.com/Koenkk/zigbee-herdsman-converters/commit/df6ec31080257a5a9307ce048959d4264a49c2d1))
+* **add:** E25-BATB ([#11132](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11132)) ([640e21c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/640e21c194385fddfdc79863e7b8e6bbb8a9fed6))
+* **add:** ZIS-01P ([#11277](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11277)) ([a21dbfe](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a21dbfe57800bf7617d38e884c41e3935ad23660))
+* Heiman HS1SA-E: support new features ([#11239](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11239)) ([fb6dfd7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/fb6dfd798e7b9ef4d42bc5232ed45fcdb9ff181d))
+
+
+### Bug Fixes
+
+* Aqara WS-K08E / WS-K08D whiteLabel ([#11265](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11265)) ([9944641](https://github.com/Koenkk/zigbee-herdsman-converters/commit/994464150f4c7bf081d4eb11d6b68211e058c7cb))
+* **detect:** Detect `_TZB210_u3ri0968` as MiBoxer FUT037Z+ ([#11278](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11278)) ([b591a70](https://github.com/Koenkk/zigbee-herdsman-converters/commit/b591a70485a2c9764bc30423a79dafe153517492))
+* **detect:** Detect `_TZE200_qasjif9e` as Tuya ZY-M100-S_2 ([#11269](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11269)) ([d90ec11](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d90ec1133606161d61e5e211a548b915f4b62dbf))
+* **detect:** Detect `_TZE204_woww89ip` as Siterwell GS361A-H04 ([#11272](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11272)) ([b8ccb9d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/b8ccb9d526bb79c8768d2daccf5021dd25143065))
+* Gas meter: make "gas" not seteable ([#11273](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11273)) ([c427be0](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c427be083689bb35a57ce420faecb88840ee8789))
+* **ignore:** bump the minor-patch group with 2 updates ([#11267](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11267)) ([5144775](https://github.com/Koenkk/zigbee-herdsman-converters/commit/51447754215f08ae0eccbe3dc3165707b6ac95c6))
+* Third Reality 3RAP0149BZ: various updates ([#11270](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11270)) ([7aab53b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7aab53b2c7021b4aecf2d0a2ba7d990ab5bbbcab))
+* Tuya TS0004: restore powerOnBehavior ([#11274](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11274)) ([7264b47](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7264b473b686587fcd54a56a70feec0eea152627))
+* Various improvements for definition generator ([#11262](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11262)) ([ce9730c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ce9730ce7832a4a4d777c2e6686e93da538c4c54))
+
 ## [25.105.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.104.0...v25.105.0) (2026-01-11)
 
 
